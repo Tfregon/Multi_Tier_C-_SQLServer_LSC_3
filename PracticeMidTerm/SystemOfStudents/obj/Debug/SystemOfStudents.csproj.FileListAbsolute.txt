@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\bin\Debug\SystemOfStudents.exe.config
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\bin\Debug\SystemOfStudents.exe
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\bin\Debug\SystemOfStudents.pdb
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.csproj.AssemblyReference.cache
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.Form1.resources
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.Properties.Resources.resources
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.exe
+C:\Users\Thomas\source\repos\PracticeMidTerm\SystemOfStudents\obj\Debug\SystemOfStudents.pdb

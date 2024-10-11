@@ -1,1 +1,2 @@
-![multi-tier](https://github.com/user-attachments/assets/f1b64de4-7a52-4b16-9a14-43a0570d4f70)
+**Multi-Tier Architecture** with C# and SQL Server
+This repository focuses on the implementation of a multi-tier architecture using C# and SQL Server. It covers the design and development of three distinct layers: the Presentation Layer, the Business Logic Layer (BLL), and the Data Access Layer (DAL). The repository includes examples that demonstrate how to structure applications for better scalability, maintainability, and separation of concerns. Practical exercises illustrate how to communicate between layers, perform CRUD operations, and manage database interactions efficiently.
